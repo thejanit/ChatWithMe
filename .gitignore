@@ -5,8 +5,6 @@ ChatWithMe-Frontend/node_modules/
 ChatWithMe-Backend/__pycache__/
 ChatWithMe-Backend/*.pyc
 
-# MacOS
-.DS_Store
 
 # VS Code settings
 .vscode/
