@@ -17,7 +17,7 @@ app.include_router(key_update.router)
 app.include_router(chat_web_socket.router)
 
 # ... Configurations ... Start
-ALLOWED_ORIGINS = ["http://localhost:5173"]
+ALLOWED_ORIGINS = ["https://chatwithme-frontend.onrender.com"]
 
 app.add_middleware(
     CORSMiddleware,
