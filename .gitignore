@@ -1,0 +1,15 @@
+# Node modules (React)
+ChatWithMe-Frontend/node_modules/
+
+# Python cache files
+ChatWithMe-Backend/__pycache__/
+ChatWithMe-Backend/*.pyc
+
+# MacOS
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Virtual environment
+.venv/
